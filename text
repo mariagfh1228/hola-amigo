@@ -1,0 +1,9 @@
+git config --global user.email "mariaguadalupe.felipehernandez@gmail.com"
+ git clone
+
+https://github.com/Irvingzr16/Prueba.git
+https://github.com/Irvingzr16/Amigos-Cool
+https://github.com/Irvingzr16/Amigos-Cool.git
+master
+
+gh repo clone Irvingzr16/Amigos-Cool
